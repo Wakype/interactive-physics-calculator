@@ -1,4 +1,4 @@
-# Kalkulator Fisika Interaktif
+# Kalkulator Fisika Interaktif [<a href="https://wakype.github.io/interactive-physics-calculator/" target="_blank"> 👉 Kunjungi di sini </a>]
 
 Sebuah kalkulator fisika modern berbasis web yang ramah pengguna, dirancang untuk membantu siswa dan para penggemar fisika dalam menyelesaikan soal-soal umum. Aplikasi ini memiliki antarmuka yang bersih dan responsif, dilengkapi tema mode gelap, serta menyediakan beragam kalkulator untuk berbagai topik fisika.
 
