@@ -1,4 +1,4 @@
-# Interactive Physics Calculator [<a href="https://wakype.github.io/interactive-physics-calculator/"> 👉 Visit Here </a>]
+# Interactive Physics Calculator [<a href="https://wakype.github.io/interactive-physics-calculator/" target="_blank"> 👉 Visit Here </a>]
 
 A modern, user-friendly web-based physics calculator designed to help students and enthusiasts solve common physics problems. This application features a clean, responsive interface with a dark mode theme and provides a range of calculators for different physics topics.
 
